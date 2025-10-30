@@ -11,7 +11,7 @@ ul{list-style:none}
 .top-section{
   position:relative;
   height:100vh;
-  background:url("./images/home_bg.jpeg") center/cover no-repeat;
+  background:url("home_bg.jpeg") center/cover no-repeat;
 }
 .top-section::before{
   content:"";
@@ -167,4 +167,5 @@ form button{color:#fff}
   .time-list{display:block;padding:2rem 0}
   .time{margin-top:20px}
   .info,form{width:85%}
+
 }
